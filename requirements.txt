@@ -1,0 +1,5 @@
+python-snippets
+openai
+zhipuai
+requests
+pandas
